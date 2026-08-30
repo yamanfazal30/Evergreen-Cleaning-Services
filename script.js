@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
 function initWhiteLabel() {
   const FALLBACKS = {
     name: 'Evergreen Cleaning Co.',
-    city: 'Spokane',
+    city: 'USA',
     phone: '(509) 555-1234'
   };
 
